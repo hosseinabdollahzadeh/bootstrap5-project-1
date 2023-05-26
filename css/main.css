@@ -7,7 +7,7 @@
         /* Pretty Modern Browsers */ url("../fonts/Vazir.ttf") format("truetype"); /* Safari, Android, iOS */
 }
 
-body{
+body {
     font-family: "Vazir" !important;
 }
 
@@ -17,4 +17,9 @@ body{
     display: inline-flex;
     padding: 15px;
     border-radius: 15px;
+}
+
+.card-primary {
+    background: #1b2a4e;
+    color: white !important;
 }
